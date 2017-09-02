@@ -1,0 +1,11 @@
+[
+	{
+		"shopname": "Menagerie Coffee",
+		"location":{
+			"type": "Point",
+			"coordinates": [13.770849, 100.495820]
+		},
+		"details": "Hello Test",
+		"website": "http://www.menageriecoffee.com/"
+	}
+]
